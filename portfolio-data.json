@@ -1,0 +1,196 @@
+{
+  "settings": {
+    "name": "Ruthvik Batchu",
+    "title": "Computer Science Student",
+    "location": "India",
+    "summary": "Second-year Computer Science student passionate about revolutionizing education through technology with a strong foundation in software development.",
+    "profileImage": "https://image2url.com/r2/default/images/1770531956667-e224f585-cf4e-4bae-8f0d-ef91415d0769.jpeg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": []
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Java",
+          "SQL",
+          "HTML/CSS",
+          "LangChain",
+          "LlamaIndex",
+          "GPT-4",
+          "OpenAI API",
+          "CodeBERT",
+          "RAG",
+          "LLMs",
+          "Prompt Engineering",
+          "AWS (EC2)",
+          "Azure",
+          "FAISS",
+          "Git",
+          "Flask",
+          "FastAPI",
+          "Streamlit",
+          "React",
+          "REST API",
+          "JWT",
+          "Google Maps API",
+          "OAuth",
+          "Pandas",
+          "NumPy",
+          "GitHub",
+          "Pull Requests",
+          "Code Reviews",
+          "Technical Documentation",
+          "Agile/SDLC",
+          "Markdown"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": false,
+      "title": "Work Experience",
+      "items": []
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Scalable RAG-Based QA System for Efficient Knowledge Retrieval",
+          "description": "Built a production-ready RAG pipeline processing 30K+ words from multi-page PDFs, implemented semantic search using FAISS, integrated LangChain with OpenAI LLMs for context-aware responses across 50+ document queries, and developed an interactive Streamlit chatbot interface.",
+          "tags": [
+            "Python",
+            "LlamaIndex",
+            "LangChain",
+            "FAISS",
+            "Streamlit"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "LLM-Powered AI Code Analysis Tool",
+          "description": "Engineered an intelligent Code Review Assistant combining GPT-4's reasoning with CodeBERT's code understanding. Built a scalable FastAPI backend and Streamlit UI, reducing manual code review time by 30% and improving static analysis coverage.",
+          "tags": [
+            "GPT-4",
+            "Python",
+            "Streamlit",
+            "CodeBERT",
+            "FastAPI"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Book Table - Role-Based Restaurant Reservation Platform",
+          "description": "Developed a full-stack web application with role-based access control using React and Flask. Designed a normalized PostgreSQL database, integrated Google Maps API, implemented JWT authentication, and deployed on AWS EC2 with a real-time booking analytics dashboard.",
+          "tags": [
+            "React",
+            "Flask",
+            "PostgreSQL",
+            "AWS EC2",
+            "Google Maps API"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Woxsen University",
+          "degree": "Bachelors of Technology in Computer Science & Engineering",
+          "period": "2024 - 2028"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Programming for Everybody (Getting Started with Python)",
+          "description": "University of Michigan, Coursera"
+        },
+        {
+          "title": "Data Structures Using Python - An Introduction",
+          "description": "Coursera"
+        },
+        {
+          "title": "Java Programming: Solving Problems with Software",
+          "description": "Duke University, Coursera"
+        },
+        {
+          "title": "Object-Oriented Design",
+          "description": "University of Alberta, Coursera"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "contact",
+      "email": "b.ruthvik070502@gmail.com",
+      "phone": "7075722987",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/ruthvik-batchu-1104a334a",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/bruthvik070502",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Ruthvik Batchu. All rights reserved."
+  }
+}
